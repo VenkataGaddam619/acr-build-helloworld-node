@@ -1,7 +1,7 @@
 {
   "name": "helloworld venakta",
   "version": "1.0.0",
-  "description": "Sample app for ACR Build",
+  "description": "Sample app for ACR Builds ACR",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
