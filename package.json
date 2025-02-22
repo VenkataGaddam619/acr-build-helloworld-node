@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "Welcome helloworld",
   "version": "1.0.0",
   "description": "Sample app for ACR Build",
   "main": "server.js",
